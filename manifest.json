@@ -1,3 +1,4 @@
 {
-  "primary": "app.R"
+  "primary": "app.R",
+  "rVersion": "4.2.2"
 }
