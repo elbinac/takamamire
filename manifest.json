@@ -1,4 +1,5 @@
 {
   "primary": "app.R",
-  "rVersion": "4.0.0"
+  "rVersion": "4.0.0",
+  "platform": "windows"
 }
