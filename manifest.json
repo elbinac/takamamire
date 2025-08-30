@@ -1,5 +1,7 @@
 {
   "primary": "app.R",
-  "rVersion": "4.3,1",
-  "platform": "windows"
+  "platform": {
+    "language": "r",
+    "version": "4.3.1"
+  }
 }
